@@ -4,6 +4,14 @@
 
 <br>
 
+<br>
+
+<p align="center">
+  <img width="" src="./img/solidity.png">
+  <br>
+</p>
+
+<br>
 The content of the series;
 
 1 - [Lottery](1-Lottery/README.md)
