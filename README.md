@@ -14,4 +14,5 @@
 <br>
 The content of the series;
 
-1 - [Lottery](1-Lottery/README.md)
+1 - [Lottery](1-Lottery/README.md) <br>
+2 - [Lottery-Basic](2-Lottery-Basic/README.md) <br>
