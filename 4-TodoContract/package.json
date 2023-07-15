@@ -1,0 +1,21 @@
+{
+  "name": "4-todocontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.13",
+    "fs-extra": "^11.1.1",
+    "ganache": "^7.9.0",
+    "mocha": "^10.2.0",
+    "solc": "^0.8.18",
+    "web3": "^4.0.3"
+  }
+}
