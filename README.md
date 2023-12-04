@@ -19,3 +19,4 @@ The content of the series;
 3 - [Campaign](3-Campaign/README.md) <br>
 4 - [Todo App](4-TodoContract/README.md) <br>
 5 - [EtherWallet](5-EtherWallet/README.md) <br>
+6 - [Escrow](6-Escrow/README.md) <br>
