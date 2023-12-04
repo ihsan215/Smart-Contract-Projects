@@ -17,5 +17,5 @@ The content of the series;
 1 - [Lottery](1-Lottery/README.md) <br>
 2 - [Lottery-Basic](2-Lottery-Basic/README.md) <br>
 3 - [Campaign](3-Campaign/README.md) <br>
-3 - [Todo App](4-TodoContract/README.md) <br>
-3 - [EtherWallet](5-EtherWallet/README.md) <br>
+4 - [Todo App](4-TodoContract/README.md) <br>
+5 - [EtherWallet](5-EtherWallet/README.md) <br>
